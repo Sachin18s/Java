@@ -31,6 +31,11 @@ package student;
 		this.Department="AI";
 		this.Section='C';
 	}
+	
+	public void Search(int Roll) {
+		System.out.println("The roll number is "+ Roll);
+		
+	}
 
 
 

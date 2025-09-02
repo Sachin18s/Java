@@ -12,13 +12,16 @@ public class Teststudent {
 //		student1.No_of_hours=8;
 		//student1.Name="priya";//cannot excess the private variable.
 		student1.Department="AI-ML";
-		student1.displayInfo();
+		//student1.displayInfo();
 //		student1.studying(5);
-		student2.displayInfo();
+		//student2.displayInfo();
 		Student.College_Name="IIT";
 //		student1.College_Name="NIT";
-		student1.displayInfo();
-		student2.displayInfo();
+		//student1.displayInfo();
+		//student2.displayInfo();
+		student1.Search(22);
+		 
+		
 		
 		
 		
